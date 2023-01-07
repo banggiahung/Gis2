@@ -1,4 +1,4 @@
-# mapgis8
+# mapgisEdit
 
 ## Project setup
 ```
